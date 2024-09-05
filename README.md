@@ -9,6 +9,7 @@ Extraction et Insertion des Données :
 
 Les données de chaque société sont extraites d'un fichier Excel anonymisé (Donnees_Societes_Scission.xlsx), qui contient toutes les informations nécessaires à la personnalisation des documents.
 Un script ou une application lit ces données et remplace les marqueurs dans le modèle Word par les informations correspondantes pour chaque société.
+
 Avantages de la Technique
 - Efficacité : Réduit considérablement le temps nécessaire à la création de documents personnalisés.
 - Uniformité : Assure la cohérence de la mise en forme et du contenu à travers tous les documents générés.
