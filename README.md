@@ -5,6 +5,7 @@ Le projet implémente une solution de templating pour automatiser la création d
 Préparation du Template Word :
 
 Un document Word anonymisé (Template_Traitement_Scission.docx) sert de modèle de base. Ce modèle contient des marqueurs spécifiques (placeholders) qui définissent les emplacements où les données personnalisées doivent être insérées.
+
 Extraction et Insertion des Données :
 
 Les données de chaque société sont extraites d'un fichier Excel anonymisé (Donnees_Societes_Scission.xlsx), qui contient toutes les informations nécessaires à la personnalisation des documents.
